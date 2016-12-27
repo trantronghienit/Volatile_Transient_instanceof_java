@@ -85,13 +85,6 @@ Increasing value of count variable to 5
 
 + code vidu
 ```
-16
-17
-18
-19
-20
-21
-22
 public class Student implements Serializable {
  
     private static final long serialVersionUID = 1L;
