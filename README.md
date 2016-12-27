@@ -117,4 +117,5 @@ thì kết quả sẽ là:
 Hien
 0               // đã set tuổi là 20 nhưng đc chỉ định là  transient nên nó sẽ không được lưu giá trị và sử dụng giá trị mặc định
 ```
-
+# Instanceof
+[link tham khảo](http://congdongjava.com/forum/threads/knowledge-so-s%C3%A1nh-2-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng-trong-java.1287/)
